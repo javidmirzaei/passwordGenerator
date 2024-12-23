@@ -6,7 +6,7 @@ This is a simple PHP script to generate random passwords based on customizable o
 
 ## How to Use
 
-1. Save the script as `index.php`.
+1. Save the script as `passwordGenerator.php`.
 2. Run it using the command line with the following options:
 
 ### Options:
